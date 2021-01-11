@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/1-project/static/css/main.64d44dbc.chunk.css",
+    "main.js": "/1-project/static/js/main.631929b5.chunk.js",
+    "main.js.map": "/1-project/static/js/main.631929b5.chunk.js.map",
+    "runtime-main.js": "/1-project/static/js/runtime-main.1c38c9ce.js",
+    "runtime-main.js.map": "/1-project/static/js/runtime-main.1c38c9ce.js.map",
+    "static/js/2.8adefb4b.chunk.js": "/1-project/static/js/2.8adefb4b.chunk.js",
+    "static/js/2.8adefb4b.chunk.js.map": "/1-project/static/js/2.8adefb4b.chunk.js.map",
+    "index.html": "/1-project/index.html",
+    "static/css/main.64d44dbc.chunk.css.map": "/1-project/static/css/main.64d44dbc.chunk.css.map",
+    "static/js/2.8adefb4b.chunk.js.LICENSE.txt": "/1-project/static/js/2.8adefb4b.chunk.js.LICENSE.txt",
+    "static/media/checked.6e63f510.svg": "/1-project/static/media/checked.6e63f510.svg",
+    "static/media/dropedTrash.b4290fb5.svg": "/1-project/static/media/dropedTrash.b4290fb5.svg",
+    "static/media/trash.4da78e9a.svg": "/1-project/static/media/trash.4da78e9a.svg",
+    "static/media/unchecked.0815bb43.svg": "/1-project/static/media/unchecked.0815bb43.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c38c9ce.js",
+    "static/js/2.8adefb4b.chunk.js",
+    "static/css/main.64d44dbc.chunk.css",
+    "static/js/main.631929b5.chunk.js"
+  ]
+}
